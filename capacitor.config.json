@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Water resources",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

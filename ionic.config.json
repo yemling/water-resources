@@ -1,0 +1,8 @@
+{
+  "name": "Water resources",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1d77edff"
+}
